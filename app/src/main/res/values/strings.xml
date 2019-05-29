@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">B26</string>
+    <string name="action_settings">Settings</string>
+    <string name="_1_week">1W</string>
+    <string name="_1_month">1M</string>
+    <string name="_1_year">1Y</string>
+    <string name="all_time">ALL</string>
+</resources>
